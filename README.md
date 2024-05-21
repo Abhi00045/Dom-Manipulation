@@ -9,7 +9,7 @@ You can view this project by clicking on the link after getting into the link yo
 We need to change the colour, background colour, margin, padding, font size, font weight, height, width of a div using "DOM".
 ## Task 
 
-Used the ``getElementById()` method to retrieve the target Div=`news` element.
+Used the `getElementById()` method to retrieve the target Div=`news` element.
 
 Changed the background color of the fetched div element to yellow using the `style.backgroundColor` property.
 
